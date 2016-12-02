@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    /*There's gotta be a better way than this to remove the margin
+     from the top */
+}
+
+.top {
+    background-color: rgb(255, 87,5);
+    color: rgb(255, 255, 255);
+    font-family: "ff-enzo-web", tahoma, sans-serif;
+    font-size: 13px;
+}
+
+li {
+    display: inline-block;
+    padding: 14px;
+    text-shadow: .25px .15px black;
+}
+
+#shipping {
+    border: transparent;
+    border-radius: 4px;
+    margin-left: 150px;
+    font-size: 12px;
+    text-align: center;
+    background-color: rgb(200, 84, 45);
+    padding: 5px;
+}
