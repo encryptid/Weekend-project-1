@@ -29,7 +29,9 @@ li {
 
 nav {
     border: 1px solid green;
-    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    
 }
 
 .logo {
@@ -38,15 +40,22 @@ nav {
 }
 
 .navbar {
-    display: inline-block; 
-    text-align: center;
+    display: inline-block;
+    border: 1px solid darkorange;
+    
 }
 
 .sign-bar {
     display: inline-block;
 }
 
+.cart {
+    display: inline-block;
+}
 
+.search {
+    display: inline-block;
+}
 
 
 footer {
