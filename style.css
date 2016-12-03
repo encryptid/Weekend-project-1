@@ -1,4 +1,5 @@
 * {
+    font-family: "ff-enzo-web", tahoma, sans-serif;
     margin: 0;
     /*There's gotta be a better way than this to remove the margin
      from the top */
@@ -7,12 +8,11 @@
 .top {
     background-color: rgb(255, 87,5);
     color: rgb(255, 255, 255);
-    font-family: "ff-enzo-web", tahoma, sans-serif;
     font-size: 13px;
 }
 
 li {
-    display: inline-block;
+    display: inline-block;    
     padding: 14px;
     text-shadow: .25px .15px black;
 }
@@ -25,4 +25,30 @@ li {
     text-align: center;
     background-color: rgb(200, 84, 45);
     padding: 5px;
+}
+
+nav {
+    border: 1px solid green;
+    text-align: center;
+}
+
+.logo {
+ display: inline-block;
+ width: 150px;
+}
+
+.navbar {
+    display: inline-block; 
+    text-align: center;
+}
+
+.sign-bar {
+    display: inline-block;
+}
+
+
+
+
+footer {
+    font-size: .5em;
 }
