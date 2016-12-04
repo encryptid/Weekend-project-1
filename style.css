@@ -168,4 +168,16 @@ input[type="text"] {
 
 footer {
     font-size: .5em;
+    display: flex;
+}
+
+.footer-nav {
+    display: flex;
+}
+.footer-sec {
+    text-align: left;
+}
+
+.footer-sec li {
+display: block;
 }
