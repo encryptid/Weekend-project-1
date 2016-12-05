@@ -94,7 +94,7 @@ input[type="text"] {
 }
 
 .cart-pic, .magnifier {
-    background-image: "file:///Users/Joshua/Desktop/TIY/Weekend-project-1/sprite@2x.png";
+    background-image: url:"file:///Users/Joshua/Desktop/TIY/Weekend-project-1/sprite@2x.png";
     background: no-repeat;
 
 }
