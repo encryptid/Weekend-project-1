@@ -168,7 +168,6 @@ input[type="text"] {
 footer {
     font-size: .65em;
     display: flex;
-    border: 1px solid red;
     background-color: rgb(244, 244, 244);
     height: 233px;
 }
@@ -223,7 +222,6 @@ a {
 .help-box {
     width: 321px;
     height: 126px;
-    border: 1px solid red;
     border-radius: 5px;
     background-color: rgb(162,175,192);
     margin-top: 38px;
